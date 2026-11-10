@@ -1,0 +1,12 @@
+# 中间产物与临时文件
+__pycache__/
+*.pyc
+*备份.html
+.dsh-office-*/
+.browser/
+node_modules/
+
+# 系统与 Office 临时文件
+Thumbs.db
+desktop.ini
+~$*
